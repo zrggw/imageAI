@@ -1,8 +1,8 @@
 # PyCharm
-.idea
+/.idea
 # Local History for Visual Studio Code
-.identity_card
+/identity_card
 resnet.h5
 pretrained-yolov3.h5
 detection_model.h5
-output
+/output
